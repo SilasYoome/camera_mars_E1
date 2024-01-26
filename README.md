@@ -12,8 +12,8 @@
 - 主程式下載
 請到這網站下載Cagebot_blockly離線版，或者使用線上版的Cagebot_blockly
 
-[離線版下載](https://www.cagebot.com/website/support)
-[線上版編程](https://www.cagebot.com/shayangye_blockly/demos/code/index.html)
+[離線版下載](https://www.cagebot.com/website/support)  
+[線上版編程](https://www.cagebot.com/shayangye_blockly/demos/code/index.html)  
 
 - 點擊上方的「載入積木程式(XML)」，並選擇副檔名為.xml的檔案來進行積木檔案匯入
 
